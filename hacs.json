@@ -1,0 +1,5 @@
+{
+	"name": "Tuya Lights",
+	"content_in_root": false,
+	"domains": ["light"]
+}
