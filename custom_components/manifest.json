@@ -1,6 +1,6 @@
 {
   "domain": "tuya_light",
-  "name": "Tuya (Lights)",
+  "name": "Tuya Lights",
   "documentation": "https://www.home-assistant.io/integrations/tuya",
   "requirements": [
     "tuyaha==0.0.4"
