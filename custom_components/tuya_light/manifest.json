@@ -3,7 +3,7 @@
   "name": "Tuya Lights",
   "documentation": "https://www.home-assistant.io/integrations/tuya",
   "requirements": [
-    "tuyaha==0.0.5"
+    "tuyaha==0.0.4"
   ],
   "dependencies": [],
   "codeowners": []
