@@ -38,7 +38,7 @@ class TuyaLight(TuyaDevice, Light):
     def __init__(self, tuya):
         """Init Tuya light device."""
         super().__init__(tuya)
-        self.entity_id = ENTITY_ID_FORMAT.format(tuya.object_id())
+        self.entity_id = ENTITY_ID_FORMAT.format("tuya_light_" + tuya.object_id())
 
     @property
     def brightness(self):
